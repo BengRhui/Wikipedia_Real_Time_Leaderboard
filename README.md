@@ -32,4 +32,4 @@ Built entirely in Rust, the system prioritizes temporal correctness, memory safe
 ---
 
 ## Documentation
-The report of this project can be accessed [here]().
+The report of this project can be accessed [here](https://github.com/BengRhui/Wikipedia_Real_Time_Leaderboard/blob/d341a6b537a7c3b9a2deb68dc2354d6397e06ab5/RTS%20Report.pdf).
